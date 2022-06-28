@@ -20,8 +20,8 @@ ex. Windows 10
 
 ### Authors
 #### Contributors names and contact info
-ex. Dominique Pizzie
-ex. [@DomPizzie](https://pages.github.com/)
+ex. Ally Searles
+ex. [@allysearles](https://pages.github.com/)
 
 
 ## Version History
